@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "I want to say... <3",
+    introTitle: 'Ngọc Nhi',
+    introDesc: `Điều khiến chúng ta hạnh phúc nhất không phải là được rất nhiều người yêu thích. Mà đó là tìm được người yêu mình hết lòng sâu đậm, dù có ra sao cũng mãi không rời xa`,
+    btnIntro: 'Là em đó.',
+    title: 'Người mà anh thích chính là em, trước kia, bây giờ và sau này cũng là em',
+    desc: 'Bởi vì anh không biết, kiếp sau anh có thể gặp em được không? Cho nên trong cuộc sống này, anh sẽ cố gắng trao những điều tốt đẹp nhất cho em',
+    btnYes: 'Yêu em',
+    btnNo: 'Vẫn là yêu em',
+    question: 'Hạnh phúc là, hai đôi mắt nhìn chung vào một tương lai',
+    btnReply: 'Gửi em',
+    reply: 'Chỉ cần em ở bên cạnh anh, những thứ khác không còn quan trọng nữa',
+    mess: 'Luôn yêu em và đợi em',
+    messDesc: 'Mãi bên nhau em nha',
+    btnAccept: 'Dạ',
+    messLink: '#' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
